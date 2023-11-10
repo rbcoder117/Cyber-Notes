@@ -10,6 +10,7 @@ Blue:x;1021:1020;Blue User:/data/network:/bin/bash
   5. Home Dir
   6. Shell Dir
      a. /bin/bash
+
 **/ETC/SHADOW**
   1. Username
   2. Password Hash
