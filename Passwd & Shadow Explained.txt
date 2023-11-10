@@ -1,5 +1,5 @@
 ETC/PASSWD EXPLAINED
-Blue:x;1021:1020;Blue User:/data/network:/bin/bash
+Blue:x:1021:1020:Blue User:/data/network:/bin/bash
 ^       ^    ^       ^            ^               ^                             ^
 1       2     3       4           5               6                             7
   1. Username
